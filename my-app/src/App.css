@@ -1,5 +1,5 @@
 body{
-  background: rgb(241, 255, 219);
+  background: rgb(255, 238, 219);
 }
 
 #logo
@@ -13,7 +13,7 @@ body{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: greenyellow;
+  background: rgb(255, 47, 47);
 }
 
 a{
@@ -101,7 +101,7 @@ a:hover
 }
 
 .footer{
-  background-color: greenyellow;
+  background-color: rgb(241, 8, 8);
   height: 30px;
   text-align: center;
 }

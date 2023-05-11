@@ -10,12 +10,12 @@ function Portfolio()
 
         <div className="portfolio-container">
 
-        <Project source={'./image-gene.png'} href={'https://alyshiak.github.io/ig9863450/'} title={'ImageGene'}/>
-        <Project source={'./tech-blog.jpg'} href={'https://tech-blog-website.herokuapp.com/'} title={'Tech Blog'}/>
-        <Project source={'./weather-dashboard.jpg'} href={'https://zafarfast.github.io/za234957234/'} title={'Weather Dashboard'}/>
-        <Project source={'./coding-quiz.jpg'} href={'https://zafarfast.github.io/zafarfastw4c/'} title={'Coding Quiz'}/>
-        <Project source={'./hotel-hunter.jpg'} href={'https://melbourne-hotel-hunter.herokuapp.com/'} title={'Hotel Hunter'}/>
-        <Project source={'./passwod-generator.jpg'} href={'https://zafarfast.github.io/ro049378231245/'} title={'Password Generator'}/>
+        <Project source={'./Screenshot (315).png'} href={'https://dhruv-232.github.io/Weather-Dashboard/'} title={'Weather Dashboard'}/>
+        <Project source={'./Screenshot (316).png'} href={'https://dhruv-232.github.io/Password-Generator/'} title={'Password Generator'}/>
+        <Project source={'./Screenshot (317).png'} href={'https://swaplogs2.herokuapp.com/'} title={'SwapLogs'}/>
+        <Project source={'./Screenshot (318).png'} href={'https://dhruv-232.github.io/Work-Day-Planner/'} title={'Work Day Scheduler'}/>
+        <Project source={'./Screenshot (319).png'} href={'https://sleepy-plains-67185.herokuapp.com/notes'} title={'Note Taker'}/>
+        <Project source={'./Screenshot (320).png'} href={'https://dhruv-232.github.io/Code-Refractor/'} title={'Horiseon Website'}/>
         </div>
     </>)
 }
