@@ -3,7 +3,7 @@ function Header({ currentPage, changePage }) {
         <>
             <div className='flex'>
                 <div>
-                <img id='logo' src="./logo.png" />
+                <img id='logo' src="./Me.jpeg" />
                 </div>
                 <div>
                     <ul className='buttons-flex nobullets'>
