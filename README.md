@@ -28,12 +28,11 @@ This project is license under MIT ![Github licence](http://img.shields.io/badge/
 
 ## Screenshots 
 
+![Screenshot (323)](https://github.com/Dhruv-232/React-Portfolio/assets/118102311/468a2a62-1ef1-482f-9028-25b9220f1d9e)
+![Screenshot (324)](https://github.com/Dhruv-232/React-Portfolio/assets/118102311/08dce216-d2db-4f3f-bfaf-c0d4f73615c6)
+![Screenshot (321)](https://github.com/Dhruv-232/React-Portfolio/assets/118102311/5adc86d1-b42e-469c-8141-b7e9033db914)
+![Screenshot (322)](https://github.com/Dhruv-232/React-Portfolio/assets/118102311/bd45a7a4-1165-4904-8bd2-9ac0f35c9a07)
 
-
-![Screenshot (324)](https://github.com/Dhruv-232/React-Portfolio/assets/118102311/b01e11a2-6c37-44f9-89fb-bf36c2867577)
-![Screenshot (323)](https://github.com/Dhruv-232/React-Portfolio/assets/118102311/61741992-a1ea-40df-90f2-b83b3c085cb5)
-![Screenshot (322)](https://github.com/Dhruv-232/React-Portfolio/assets/118102311/27dd510b-3fde-479c-9c83-38e9e0ffc10c)
-![Screenshot (321)](https://github.com/Dhruv-232/React-Portfolio/assets/118102311/d0218973-6bf2-4229-b173-bd683f6475ac)
 
 
 ## Link 
